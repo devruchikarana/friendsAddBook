@@ -3,13 +3,15 @@
 one:
   user_name: MyString
   email: MyString
-  dob: 2021-12-19
+  dob: 2021-12-23
   sex: MyString
-  active: false
+  active: MyString
+  : false
 
 two:
   user_name: MyString
   email: MyString
-  dob: 2021-12-19
+  dob: 2021-12-23
   sex: MyString
-  active: false
+  active: MyString
+  : false

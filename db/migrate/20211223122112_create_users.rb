@@ -5,7 +5,8 @@ class CreateUsers < ActiveRecord::Migration[6.1]
       t.string :email
       t.date :dob
       t.string :sex
-      t.boolean :active
+      t.string :active
+      t.boolean :
 
       t.timestamps
     end
